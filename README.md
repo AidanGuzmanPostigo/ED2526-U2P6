@@ -19,4 +19,4 @@ En esta captura se puede observar que el bloque condicional no se ejecuta y por 
 
 ![capturaError3](resources/captura3.png)
 
-3. Creo que la documentación es muy necesaria tanto cuando se desarrolla 
+3. Creo que la documentación es muy necesaria tanto cuando se desarrolla con un grupo de trabajo como cuando se trabaja en solitario, principalmente para siempre tener referencias sobre lo que hace cada parte del código, y aunque pueda parecer que al una persona desarrollar por su cuenta no necesitará de esta, si el proyecto se vuelve muy grande puede darse el caso que cuando intente refactorizar código se encuentre con partes del proyecto que no recuerde como funcionan. 
