@@ -3,7 +3,7 @@ Practica 6 de la unidad 2 de Entorno de Desarrollo
 
 1. Los comentarios están realizados en el mismo código, todos los errores de sintaxis han sido ";" faltantes salvo en la línea 31, en la que habían símbolos de comentarios que sobraban (más concretamente */).
 
-2. He encontrado 3 errores:
+2. He encontrado 2 errores:
 
 - El primero lo he podido ver al intentar ejecutar el programa, ocurre al realizar antes de empezar el bloque while, ya que este no tiene una condición válida, sino que tiene simplemente un false.
 
